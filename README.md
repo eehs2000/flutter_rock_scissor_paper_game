@@ -1,4 +1,4 @@
-# vendor_app_prac1
+# rsp_app
 
 A new Flutter project.
 
